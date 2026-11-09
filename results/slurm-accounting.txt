@@ -1,0 +1,5 @@
+JobID           JobName      State    Elapsed ExitCode  AllocCPUS     ReqMem     MaxRSS 
+------------ ---------- ---------- ---------- -------- ---------- ---------- ---------- 
+65782743     mi-checku+  COMPLETED   00:00:04      0:0          1         2G            
+65782743.ba+      batch  COMPLETED   00:00:04      0:0          1               358580K 
+65782743.ex+     extern  COMPLETED   00:00:04      0:0          1                       

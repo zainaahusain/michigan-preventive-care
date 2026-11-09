@@ -1,3 +1,12 @@
+# AI Assistance Documentation
+# Tool: OpenAI ChatGPT (GPT-6)
+# Date: November 9, 2026
+# ChatGPT assisted with planning and implementing the data analysis,
+# including filtering CDC PLACES records, computing summary statistics,
+# and creating a visualization.
+# I ran the code, reviewed the outputs, and verified its behavior
+# using automated tests and a Great Lakes SLURM batch job.
+
 from pathlib import Path
 
 import matplotlib

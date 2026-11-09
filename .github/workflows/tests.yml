@@ -1,3 +1,14 @@
+# AI Assistance Documentation
+# Tool: OpenAI ChatGPT (GPT-6)
+# Date: November 9, 2026
+#
+# ChatGPT assisted with configuring GitHub Actions to
+# install the required Python packages and run pytest
+# automatically on pushes and pull requests.
+#
+# I pushed the workflow to GitHub and verified that
+# the automated tests completed successfully.
+
 name: Python Tests
 
 on:

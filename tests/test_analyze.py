@@ -1,3 +1,16 @@
+# AI Assistance Documentation
+# Tool: OpenAI ChatGPT (GPT-6)
+# Date: November 9, 2026
+#
+# ChatGPT assisted with writing pytest tests for the Michigan
+# preventive care analysis, including tests for filtering the
+# correct records, removing missing values, and sorting counties.
+#
+# I reviewed the tests and ran them locally on my Mac and on
+# Great Lakes. All three tests passed. I also verified that
+# the tests passed automatically through GitHub Actions.
+
+
 import pandas as pd
 
 from src.analyze import select_michigan_checkups
