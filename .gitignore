@@ -1,0 +1,17 @@
+# Python temporary files
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Local environments
+.venv/
+.env/
+
+# Mac files
+.DS_Store
+
+# Large original CDC dataset
+data/*.csv
+
+# Temporary editor files
+.vscode/
