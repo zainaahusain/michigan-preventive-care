@@ -152,6 +152,4 @@ My contributions and verification:
 
 I selected the preventive healthcare topic, downloaded the CDC dataset, created and organized the project files, executed the analysis locally, and inspected the generated outputs. I ran the pytest tests locally and on Great Lakes, verified that GitHub Actions passed, and submitted the analysis through SLURM. I also reviewed the project documentation and addressed errors encountered during setup.
 
-I used AI assistance as a development and learning resource. I am responsible for understanding the submitted code, checking the results, and ensuring that the final project meets the assignment requirements.
-
 AI tool: OpenAI ChatGPT (GPT-6), accessed November 9, 2026.
